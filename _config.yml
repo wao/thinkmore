@@ -4,7 +4,7 @@ email: yangchen@thinkmore.info
 description: > # this means to ignore newlines until "baseurl:"
     Personal thoughts and work log in software development.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://wao.github.io/thinkmore" # the base hostname & protocol for your site
 twitter_username: yangchen
 github_username:  wao
 
